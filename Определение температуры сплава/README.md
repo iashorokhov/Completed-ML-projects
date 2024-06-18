@@ -5,6 +5,9 @@
 Требовалось создать модель, для предсказания температуры сплава с качеством MAE не выше 6.8
 ## Навыки и инструменты:
 - Python
+- SQL
+- PostgreSQL
+- Sqlalchemy
 - Pandas
 - Numpy
 - Matplotlib
